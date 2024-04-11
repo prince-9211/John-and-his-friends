@@ -1,0 +1,1 @@
+This is mini project it's only contain JavaScript code and HTML code . In JavaScript we are creating the function like Map function ,forEach function ,filter Method and concatnate method and at last we are printing a new array with object.
